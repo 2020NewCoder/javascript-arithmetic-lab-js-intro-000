@@ -18,6 +18,6 @@ return(++n);
 function decrement(n){
   return(--n);
 }
-maekeInt(n){
+makeInt(n){
   return(parseint+n)
 }
