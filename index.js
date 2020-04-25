@@ -18,3 +18,6 @@ return(++n);
 function decrement(n){
   return(--n);
 }
+function makeInt(n){
+  
+}
