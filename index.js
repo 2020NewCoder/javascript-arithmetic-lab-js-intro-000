@@ -14,4 +14,5 @@ function divide (a,b){
 }
 function increment(n){
   increment++
+  return(increment);
 };
